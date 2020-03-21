@@ -1,0 +1,30 @@
+button {
+    margin: 5px;
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+    text-align: center;
+}
+
+.rating {
+    font-size: 8px;
+}
+
+img {
+    margin: 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+.searchDiv {
+    position: fixed;
+    right: 0;
+}
