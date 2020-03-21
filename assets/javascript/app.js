@@ -1,6 +1,6 @@
 //Here we begin the array of default button options
 $(document).ready(function () {
-    var topics = ["ecstatic", "frustrated", "tired", "snuggly", "indignant", "LOL", "pensive", "ennui"];
+    var topics = ["ecstatic", "frustrated", "tired", "snuggly", "indignant", "LOL", "embarassed", "ennui"];
 
     var queryUrl = "https://api.giphy.com/v1/gifs/search?q="
     var apiKey = "&api_key=SZQ5icer57LMT0D3ANkORbr1aHaJSO5l"
